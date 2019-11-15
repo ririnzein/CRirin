@@ -1,0 +1,2 @@
+# CRirin
+ belajar bahasa C
